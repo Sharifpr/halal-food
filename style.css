@@ -45,3 +45,12 @@ p{
 .button{
     margin-top: 40px;
 }
+.body-div{
+    display: flex;
+    background-image: url(./images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body-div p{
+    text-align: justify;
+}
