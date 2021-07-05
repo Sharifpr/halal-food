@@ -11,7 +11,7 @@ h1 span {
 }
 p{
     font-size: 20px;
-    color: #e25a0cb6;
+    color: #462512b7;
     padding: 20px;
 }
 .top-div{
@@ -53,4 +53,19 @@ p{
 }
 .body-div p{
     text-align: justify;
+}
+.top-footer{
+    text-align: center;
+}
+.recipes-sation{
+    display: flex;
+}
+.half-sation{
+    width: 26%;
+    border: 2px solid;
+    margin-left: 75px;
+    text-align: left;
+}
+.half-sation img{
+    width: 200px;
 }
