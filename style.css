@@ -9,10 +9,21 @@ h1{
 h1 span {
     color: #f1c40f;
 }
+h3{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+h2{
+    font-size: 40px;
+}
+h2 span{
+    color: #f1c40f;
+}
 p{
     font-size: 20px;
     color: #462512b7;
-    padding: 20px;
+    padding-top: 50px;
 }
 .top-div{
     display: flex;
@@ -43,7 +54,7 @@ p{
     
 }
 .button{
-    margin-top: 40px;
+    margin-top: 60px;
 }
 .body-div{
     display: flex;
@@ -56,16 +67,35 @@ p{
 }
 .top-footer{
     text-align: center;
+    padding: 80px;
 }
 .recipes-sation{
     display: flex;
 }
 .half-sation{
     width: 26%;
-    border: 2px solid;
+    border: 2px solid white;
     margin-left: 75px;
     text-align: left;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 1px grey;
+    padding-bottom: 20px;
+}
+.half-sation p{
+    margin-left: 15px;
+    padding-top: 20px;
 }
 .half-sation img{
-    width: 200px;
+    width: 367px;
+    margin: 13px;
+
+}
+.footer{
+    text-align: center;
+    background-color:#34495e ;
+    padding: 30px;
+    margin-top: 100px;
+}
+.footer p{
+    color: #ecf0f1;
 }
