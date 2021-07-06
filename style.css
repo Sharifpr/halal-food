@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 h1{
     font-family: 'Oswald', sans-serif;
     font-size: 60px;
@@ -29,6 +30,7 @@ p{
     color: #462512b7;
     padding-top: 50px;
 }
+
 .top-div{
     display: flex;
     background-image: url(./images/shapes/Frame\ 59.jpg);
