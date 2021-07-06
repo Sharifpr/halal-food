@@ -43,6 +43,9 @@ p{
 .half-width img{
     width: 85%;
 }
+.ex-height{
+    height: 568px;
+}
 .link-button{
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
