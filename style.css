@@ -97,11 +97,23 @@ p{
     margin: 13px;
 
 }
+#subscribe-button{
+    color: rgb(235, 11, 123);
+    border: 1px solid grey;
+    box-shadow: 0px 0px 3px 1px grey;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    margin: 50px;
+    border-radius: 20px;
+    background-color: #ebeedc9f;
+}
+
 .footer{
     text-align: center;
     background-color:#34495e ;
     padding: 30px;
-    margin-top: 100px;
+    
 }
 .footer p{
     color: #ecf0f1;
