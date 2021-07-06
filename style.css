@@ -3,6 +3,7 @@
     padding: 0;
 }
 h1{
+    font-family: 'Oswald', sans-serif;
     font-size: 60px;
     color: rgb(90, 57, 57);
 }
@@ -15,12 +16,15 @@ h3{
     font-size: 25px;
 }
 h2{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-size: 40px;
 }
 h2 span{
     color: #f1c40f;
 }
-p{
+p{  
+    font-family: 'PT Sans', sans-serif;
     font-size: 20px;
     color: #462512b7;
     padding-top: 50px;
@@ -51,8 +55,8 @@ p{
     background: linear-gradient(45deg, lightsalmon, tomato);
     padding: 13px 30px;
     border-radius: 20px;
-    color: rgb(248, 248, 248);
-    font-weight: 700;
+    color: rgb(25 58 36);
+    font-weight: 900;
     box-shadow: 1px 1px 2px 0px grey;
     
 }
